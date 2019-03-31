@@ -10,4 +10,7 @@ The repository includes RL and DRL NoteBooks. The algorithms implemented:
 6. Cross-Entropy.
 7. Deep Q-Learning.
 8. Actor-Critic; (Advantage and Asynchronous).
-9. Policy Gradient Methods.
+9. Policy Gradient Methods
+
+
+Codes/Notebooks from Deep Reinforcement Learning Book for Packt and Practical Reinforcement Learning.
